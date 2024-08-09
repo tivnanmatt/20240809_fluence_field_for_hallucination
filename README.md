@@ -1,0 +1,2 @@
+# 20240809_fluence_field_for_hallucination
+Stationary Computed Tomography with Fluence Field Modulation for Minimizing Hallucinations
